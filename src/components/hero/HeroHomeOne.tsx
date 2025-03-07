@@ -15,7 +15,7 @@ interface DataType {
 const hero_slider: DataType[] = [
   {
     img: `/assets/img/hero_img_1.jpg`,
-    sub_title: "Creative Agency",
+    sub_title: "The Webmaster Company",
     title: "Aiming Your Success with Augmented IT & Business Services",
     des: `VeravalOnline Private Limited is a diversified group of companies specializing in technology, logistics, e-commerce, AI-driven solutions, and digital transformation. With a strong foundation in web development, enterprise software, and multi-vendor marketplaces, we empower your businesses with cutting-edge solutions tailored to your needs.`
   },

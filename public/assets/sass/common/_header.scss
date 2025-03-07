@@ -396,7 +396,7 @@
             flex-wrap: wrap;
             height: inherit;
             >li {
-                margin-right: 50px;
+                margin-right: 30px;
                 height: inherit;
                 &:last-child {
                     margin-right: 0;
@@ -633,7 +633,7 @@
 
 @media screen and (max-width: 1400px) {
     .cs_nav .cs_nav_list .cs_mega_wrapper {
-        width: 520px !important;
+        width: 400px !important;
     }
     .cs_site-branding {
         max-width: 190px;

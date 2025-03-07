@@ -23,7 +23,7 @@ const PortfolioDetailsArea = () => {
           <div className="cs_section_heading cs_style_1 cs_type_1">
             <div className="cs_section_heading_text">
               <h2 className="cs_section_title anim_text_writting">
-                Aske - Task Management Web And Mobile Application
+                Insurance Management - Tagging & Claiming
               </h2>
             </div>
             <div className="cs_section_heading_right cs_btn_anim">

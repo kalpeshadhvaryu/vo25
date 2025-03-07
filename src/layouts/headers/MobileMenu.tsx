@@ -23,44 +23,46 @@ const menu_data: DataType[] = [
     id: 1,
     title: "Home",
     link: "/",
+    has_dropdown: false,
+    
+  },
+  {
+    id: 2,
+    title: "About Us",
+    link: '/about',
     has_dropdown: true,
     sub_menu: [
       {
         id: 1,
-        title: "Digital Agency",
-        link: "/",
+        title: "About VO",
+        link: "/about",
       },
       {
         id: 2,
-        title: "Startup Agency",
+        title: "Career",
         link: "/startup-agency",
       },
       {
         id: 3,
-        title: "Design Studio",
+        title: "Accounts & Payments",
         link: "/design-studio",
       },
-      {
-        id: 4,
-        title: "Creative Protfolio",
-        link: "/creative-protfolio",
-      },
-      {
-        id: 5,
-        title: "Marketing Agency",
-        link: "/marketing-agency",
-      },
+      // {
+      //   id: 4,
+      //   title: "Creative Protfolio",
+      //   link: "/creative-protfolio",
+      // },
+      // {
+      //   id: 5,
+      //   title: "Marketing Agency",
+      //   link: "/marketing-agency",
+      // },
     ]
-  },
-  {
-    id: 2,
-    title: "About",
-    link: '/about',
-    has_dropdown: false
+
   },
   {
     id: 3,
-    title: "Pages",
+    title: "Products",
     link: "/about",
     has_dropdown: true,
     sub_menu: [
